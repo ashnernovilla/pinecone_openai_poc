@@ -52,3 +52,4 @@ export OPENAI_API_KEY="your_openai_api_key"
 - If encountering document upload issues, verify file format compatibility.
 
 ## Link
+https://pinecone-llamaindex-poc.streamlit.app/
