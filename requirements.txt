@@ -1,0 +1,5 @@
+streamlit
+pinecone-client
+llama-index
+llama-index-vector-stores-pinecone
+openai
