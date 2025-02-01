@@ -51,5 +51,4 @@ export OPENAI_API_KEY="your_openai_api_key"
 - Check that the Pinecone index has been successfully created.
 - If encountering document upload issues, verify file format compatibility.
 
-## License
-This project is licensed under the MIT License.
+## Link
